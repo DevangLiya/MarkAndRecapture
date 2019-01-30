@@ -1,4 +1,6 @@
 # MarkAndRecapture
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DevangLiya/MarkAndRecapture/master)
+
 Simulation for mark and recapture method used in ecology to estimate population size.
 
 **What can we currently do?**
@@ -16,8 +18,9 @@ Simulation for mark and recapture method used in ecology to estimate population 
 
 **How to use?**
 -----
-[Click here]() to open the notebook on Binder.
+1. [Click here](https://mybinder.org/v2/gh/DevangLiya/MarkAndRecapture/master) to launch master branch on Binder.
+1. Click on MnR.ipynb to launch the notebook.
 
 or
 
-Download the notebook and open it with [Jupyter Notebook](https://jupyter.org/install).
+Download the MnR.ipynb file and open it with [Jupyter Notebook](https://jupyter.org/install).
